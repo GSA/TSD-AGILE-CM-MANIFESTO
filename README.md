@@ -1,5 +1,5 @@
 # TSD Agile CM Manifesto
-Before the Technology Solution Division, inside of GSA IT, develops formal policy and guidance for Configuration Managenet of agile projects, we will first document our core principles of configuration management. These principles serve as a high level list of do's and do not's for configuration management. These are untailorable principles where all teams stand equal in supportig and upholding said principles.
+Before the Technology Solution Division, inside of GSA IT, develops formal policy and guidance for Configuration Managenet of agile projects, we will first document our core principles of configuration management. These principles serve as a high level list of do's and do not's for configuration management. These are untailorable principles where all teams stand equal in supporting and upholding said principles.
 
 ### Principle 1: Share First (Public Vs GSA Vs Private)
 > All developers have an obligation to consider how code can be shared or otherwise leveraged by external enteties (Either Agency-wide or Government-wide).
