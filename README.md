@@ -13,7 +13,7 @@ Before the Technology Solution Division, inside of GSA IT, develops formal polic
 ### Principle 4: Ignore configuration files (.gitignore)
 > All developers shall ignore configuration files from their code repositories by leveraging the [GitIgnore](http://git-scm.com/docs/gitignore) capability. See Principle 3 for more information.
 
-### Principle 5: Commit Messages (Allways)
+### Principle 5: Commit Messages (Always)
 > All developers shall input commit messages on all commits. Additionally, sommit messages shall relate to the requirement/defect/issue that was being addressed.
 
 ### Principle 6: Code Documentation (Github Pages)
